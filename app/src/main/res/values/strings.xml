@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuperWeb</string>
+    <string name="action_info">ページの詳細</string>
+    <string name="action_screenshot">スクリーンショット</string>
+    <string name="action_resources">リソース検知</string>
+    <string name="action_settings">設定</string>
+
+    <string name="download_ask">ダウンロードしますか？</string>
+    <string name="dl_name">ファイル名</string>
+    <string name="minetype">mine-type</string>
+    <string name="source_url">URL</string>
+
+    <string name="onPositiveText">ダウンロード</string>
+    <string name="onNegativeText">キャンセル</string>
+</resources>

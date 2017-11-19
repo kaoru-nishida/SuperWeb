@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="customTitle">14sp</dimen>
+    <dimen name="customEntry">18sp</dimen>
+    <dimen name="sample_button_spacing">2dp</dimen>
+    <dimen name="headerTitle">20sp</dimen>
+    <dimen name="headerMarginVertical">16dp</dimen>
+    <dimen name="headerMarginStart">12dp</dimen>
+</resources>
